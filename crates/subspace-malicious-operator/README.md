@@ -1,6 +1,6 @@
 # The intentional malicious operator node
 
-NOTE: ****this is only use for testing purpose****
+NOTE: ****this is only used for testing purposes****
 
 The malicious operator node act as a regular [domain operator](../../domains/README.md) but it will intentionally and continuously produce malicious content to test if the network can handle it properly.
 
