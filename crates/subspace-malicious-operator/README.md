@@ -2,7 +2,7 @@
 
 NOTE: ****this is only used for testing purposes****
 
-The malicious operator node act as a regular [domain operator](../../domains/README.md) but it will intentionally and continuously produce malicious content to test if the network can handle it properly.
+The malicious operator node acts as a regular [domain operator](../../domains/README.md) but it will intentionally and continuously produce malicious content to test if the network can handle it properly.
 
 ### How it works
 
